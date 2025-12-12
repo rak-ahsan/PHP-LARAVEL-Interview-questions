@@ -1,4 +1,4 @@
-## Interview questions for PHP, Laravel & MySQL by sabbir
+## Interview questions for PHP, Laravel & MySQL
 
 ________________________________________________________________
 ### Interview Questions for PHP: 
